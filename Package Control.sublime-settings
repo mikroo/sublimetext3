@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"Color Highlighter",
+		"Emmet",
+		"HTML Nest Comments",
+		"HTML5",
+		"JSLint",
+		"LESS",
+		"LiveReload",
+		"Material Theme",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
